@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aura-amantis
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Data Structures
 - 📫 How to reach me <jaintisha2530@gmail.com>
 
